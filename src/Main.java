@@ -13,7 +13,7 @@ public class Main {
         System.out.println("input address");
         String address =input.next();
 
-        if(age > 18 ){
+        if(age > 19 ){
             System.out.println(address);
         }
 
