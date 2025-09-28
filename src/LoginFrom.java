@@ -20,5 +20,9 @@ public class LoginFrom {
         }
 
         System.out.println("hello");
+
+        if (0<0){
+            System.out.println("buyee");
+        }
     }
 }
